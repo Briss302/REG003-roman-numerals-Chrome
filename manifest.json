@@ -1,0 +1,23 @@
+{
+  "name": "Roman-Numerals",
+  "description": "Convertir números arábigos en números romanos y viceversa",
+  "version": "1.0",
+  "manifest_version": 3,
+
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "./extension/popup.html",
+    "default_icon": {
+      "16": "./extension/6.png",
+      "32": "./extension/6.png",
+      "48": "./extension/6.png",
+      "128": "./extension/6.png"
+    }
+  },
+  "icons": {
+    "16": "./extension/6.png",
+    "32": "./extension/6.png",
+    "48": "./extension/6.png",
+    "128": "./extension/6.png"
+  }
+}

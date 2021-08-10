@@ -1,0 +1,23 @@
+{
+  "name": "REG003-roman-numerals-Chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Briss302/REG003-roman-numerals-Chrome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Briss302/REG003-roman-numerals-Chrome/issues"
+  },
+  "homepage": "https://github.com/Briss302/REG003-roman-numerals-Chrome#readme",
+  "dependencies": {
+    "roman-numerals": "github:Briss302/REG003-roman-numerals"
+  }
+}
